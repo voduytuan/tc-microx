@@ -46,7 +46,7 @@ fi
 
 
 #############################################$
-# Replace environment LOGGLY_TOKEN, LOGGLY_TAG
+# Replace environment LOG IP
 envtpl /etc/syslog-ng/conf.d/graylog.conf.tpl
 
 ## run supervisord
