@@ -10,5 +10,5 @@ To redownload config url, we can run `/var/config.sh` with `docker exec...` comm
 
 Example:
 ```bash
-docker exec -ti containername /var/config.sh`
+docker exec -ti containername /var/config.sh
 ```
